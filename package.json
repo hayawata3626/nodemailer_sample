@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "dotenv": "^6.0.0",
+    "nodemailer": "^4.6.8"
+  }
+}
